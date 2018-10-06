@@ -1,26 +1,4 @@
 # vue-auth-boilerplate
 
-## Project setup
-```
-yarn install
-```
+## Just a simple boilerplate of vue app with authentication
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
